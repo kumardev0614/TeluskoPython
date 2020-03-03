@@ -32,3 +32,4 @@ class A:
 
 s1 = A()
 print('sum =', s1.sum())
+print()
